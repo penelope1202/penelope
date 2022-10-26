@@ -1,2 +1,2 @@
-# penelope
+# Penelope
 учебный проект Седона
